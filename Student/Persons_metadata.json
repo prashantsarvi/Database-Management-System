@@ -1,0 +1,1 @@
+{"Columns": [{"name": "PersonID", "type": "int"}, {"name": "LastName", "type": "varchar(255)"}, {"name": "FirstName", "type": "varchar(255)"}, {"name": "Address", "type": "varchar(255)"}, {"name": "City", "type": "varchar(255)"}], "primary key": "PersonID"}

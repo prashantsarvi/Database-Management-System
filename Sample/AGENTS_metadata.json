@@ -1,0 +1,29 @@
+{
+  "Columns": [
+    {
+      "name": "AGENT_CODE",
+      "type": "CHAR(6)"
+    },
+    {
+      "name": "AGENT_NAME",
+      "type": "CHAR(40)"
+    },
+    {
+      "name": "WORKING_AREA",
+      "type": "CHAR(35)"
+    },
+    {
+      "name": "COMMISSION",
+      "type": "CHAR(10)"
+    },
+    {
+      "name": "PHONE_NO",
+      "type": "CHAR(15)"
+    },
+    {
+      "name": "COUNTRY",
+      "type": "VARCHAR2(25)"
+    }
+  ],
+  "primary key": "AGENT_CODE"
+}

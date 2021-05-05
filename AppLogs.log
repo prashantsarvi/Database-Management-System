@@ -1,0 +1,373 @@
+INFO 2020-12-01 13:40:27,341 - Parsing Select Query
+INFO 2020-12-01 13:40:27,342 - Trying to retrieve data from Table: AGENTS in DB Student
+INFO 2020-12-01 13:40:27,342 - Select operation performed on table named AGENTS
+INFO 2020-12-01 13:40:28,895 - Trying to delete record from Table: AGENTS in DB Student
+INFO 2020-12-01 13:40:28,897 - Data Deleted successfully in the table named AGENTS
+INFO 2020-12-01 13:41:48,837 - Parsing Select Query
+INFO 2020-12-01 13:41:48,838 - Trying to retrieve data from Table: AGENTS in DB Student
+INFO 2020-12-01 13:41:48,845 - Select operation performed on table named AGENTS
+INFO 2020-12-01 13:41:50,093 - Trying to delete record from Table: AGENTS in DB Student
+INFO 2020-12-01 13:41:50,094 - Data Deleted successfully in the table named AGENTS
+INFO 2020-12-01 13:41:54,885 - Trying to delete record from Table: AGENTS in DB Student
+INFO 2020-12-01 13:41:54,890 - Data Deleted successfully in the table named AGENTS
+ERROR 2020-12-01 13:42:06,857 - Wrong Delete from Table Query Syntax
+INFO 2020-12-01 13:42:12,281 - Trying to delete record from Table: AGENTS in DB Student
+INFO 2020-12-01 13:42:12,284 - Data Deleted successfully in the table named AGENTS
+INFO 2020-12-01 13:42:18,552 - Parsing Select Query
+INFO 2020-12-01 13:42:18,552 - Trying to retrieve data from Table: AGENTS in DB Student
+INFO 2020-12-01 13:42:18,561 - Select operation performed on table named AGENTS
+INFO 2020-12-01 13:45:30,925 - Parsing Insert Query
+ERROR 2020-12-01 13:45:30,926 - Wrong Insert Query Syntax
+INFO 2020-12-01 13:46:04,606 - Parsing Insert Query
+INFO 2020-12-01 13:46:04,607 - Trying to insert data into Table: ORDERS in DB Student
+INFO 2020-12-01 13:46:25,085 - Parsing Insert Query
+INFO 2020-12-01 13:46:25,085 - Trying to insert data into Table: ORDERS in DB Student
+INFO 2020-12-01 13:46:25,087 - Data inserted in the ORDERS successfully.
+INFO 2020-12-01 13:46:38,463 - Parsing Insert Query
+INFO 2020-12-01 13:46:38,463 - Trying to insert data into Table: ORDERS in DB Student
+INFO 2020-12-01 13:46:38,469 - Data inserted in the ORDERS successfully.
+INFO 2020-12-01 13:47:39,980 - Parsing Insert Query
+INFO 2020-12-01 13:47:39,980 - Trying to insert data into Table: ORDERS in DB Student
+INFO 2020-12-01 13:47:59,241 - Parsing Select Query
+ERROR 2020-12-01 13:47:59,241 - Wrong Select Query Syntax
+INFO 2020-12-01 13:48:17,626 - Parsing Select Query
+INFO 2020-12-01 13:48:17,627 - Trying to retrieve data from Table: AGENTS in DB Student
+INFO 2020-12-01 13:48:20,347 - Parsing Select Query
+INFO 2020-12-01 13:48:20,347 - Trying to retrieve data from Table: AGENTS in DB Student
+INFO 2020-12-01 13:48:31,470 - Parsing Select Query
+INFO 2020-12-01 13:48:31,470 - Trying to retrieve data from Table: AGENTS in DB Student
+ERROR 2020-12-01 13:48:31,471 - ERROR: The column specified in the condition does not exist in the AGENTS table.
+INFO 2020-12-01 14:32:44,051 - Parsing Select Query
+INFO 2020-12-01 14:32:44,052 - Trying to retrieve data from Table: Details in DB Student
+INFO 2020-12-01 14:32:44,053 - Select operation performed on table named Details
+INFO 2020-12-01 14:44:26,063 - Parsing Select Query
+INFO 2020-12-01 14:44:26,065 - Trying to retrieve data from Table: Details in DB Student
+INFO 2020-12-01 14:44:26,066 - Select operation performed on table named Details
+INFO 2020-12-01 14:44:32,611 - Parsing Select Query
+ERROR 2020-12-01 14:44:32,611 - Wrong Select Query Syntax
+INFO 2020-12-01 14:44:39,455 - Parsing Select Query
+ERROR 2020-12-01 14:44:39,455 - Wrong Select Query Syntax
+INFO 2020-12-01 14:45:30,222 - Parsing Insert Query
+ERROR 2020-12-01 14:45:30,222 - Wrong Insert Query Syntax
+INFO 2020-12-01 14:46:44,427 - Parsing Select Query
+ERROR 2020-12-01 14:46:44,427 - Wrong Select Query Syntax
+INFO 2020-12-01 14:47:50,701 - Parsing Select Query
+INFO 2020-12-01 14:47:50,702 - Trying to retrieve data from Table: Details in DB Student
+INFO 2020-12-01 14:47:50,703 - Select operation performed on table named Details
+INFO 2020-12-01 15:15:15,985 - Parsing create DB Query
+ERROR 2020-12-01 15:15:15,987 - Wrong Create Database Query Syntax
+INFO 2020-12-01 15:15:24,778 - Parsing create DB Query
+INFO 2020-12-01 15:15:24,778 - Trying to create DB Sample
+INFO 2020-12-01 15:15:24,782 - Database Sample created successfully.
+INFO 2020-12-01 15:15:47,013 - Parsing use DB Query
+INFO 2020-12-01 15:15:47,014 - Trying to change db name
+INFO 2020-12-01 15:15:47,014 - DB changed toSample
+INFO 2020-12-01 15:16:01,375 - Parsing create table Query
+INFO 2020-12-01 15:16:01,377 - Trying to create Table AGENTS in Sample
+INFO 2020-12-01 15:16:01,389 - AGENTS table created successfully.
+INFO 2020-12-01 15:16:19,775 - Parsing create table Query
+INFO 2020-12-01 15:16:19,775 - Trying to create Table CUSTOMER in Sample
+INFO 2020-12-01 15:16:19,786 - CUSTOMER table created successfully.
+INFO 2020-12-01 15:16:27,019 - Parsing create table Query
+ERROR 2020-12-01 15:16:27,019 - Wrong Create Table Query
+INFO 2020-12-01 15:16:37,464 - Parsing create table Query
+INFO 2020-12-01 15:16:37,465 - Trying to create Table ORDERS in Sample
+INFO 2020-12-01 15:16:37,484 - ORDERS table created successfully.
+INFO 2020-12-01 15:16:46,704 - Parsing Insert Query
+INFO 2020-12-01 15:16:46,704 - Trying to insert data into Table: AGENTS in DB Sample
+INFO 2020-12-01 15:16:46,717 - Data inserted in the AGENTS successfully.
+INFO 2020-12-01 15:17:14,819 - Parsing Insert Query
+INFO 2020-12-01 15:17:14,819 - Trying to insert data into Table: AGENTS12332 in DB Sample
+ERROR 2020-12-01 15:17:14,820 - error occured during inserting data into the table AGENTS12332
+INFO 2020-12-01 15:17:34,488 - Parsing Insert Query
+INFO 2020-12-01 15:17:34,488 - Trying to insert data into Table: AGENTS in DB Sample
+INFO 2020-12-01 15:17:48,164 - Parsing Insert Query
+INFO 2020-12-01 15:17:48,164 - Trying to insert data into Table: AGENTS in DB Sample
+INFO 2020-12-01 15:17:48,186 - Data inserted in the AGENTS successfully.
+INFO 2020-12-01 15:17:57,060 - Parsing Select Query
+INFO 2020-12-01 15:17:57,061 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:17:57,071 - Select operation performed on table named AGENTS
+INFO 2020-12-01 15:18:11,277 - Parsing Insert Query
+INFO 2020-12-01 15:18:11,277 - Trying to insert data into Table: AGENTS in DB Sample
+ERROR 2020-12-01 15:18:11,277 - Primary key Constraint: Data with primary key already exist in table.
+INFO 2020-12-01 15:18:34,262 - Parsing Insert Query
+INFO 2020-12-01 15:18:34,263 - Trying to insert data into Table: CUSTOMER in DB Sample
+INFO 2020-12-01 15:18:34,282 - Data inserted in the CUSTOMER successfully.
+INFO 2020-12-01 15:18:41,458 - Parsing Insert Query
+INFO 2020-12-01 15:18:41,458 - Trying to insert data into Table: ORDERS in DB Sample
+INFO 2020-12-01 15:18:41,462 - Data inserted in the ORDERS successfully.
+INFO 2020-12-01 15:18:48,406 - Parsing Select Query
+INFO 2020-12-01 15:18:48,406 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:18:48,407 - Select operation performed on table named AGENTS
+INFO 2020-12-01 15:19:15,209 - Parsing Select Query
+INFO 2020-12-01 15:19:15,209 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:19:31,091 - Parsing Select Query
+INFO 2020-12-01 15:19:31,091 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:19:48,757 - Parsing Update Query
+INFO 2020-12-01 15:19:48,758 - Trying to Update data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:19:48,761 - Data updated successfully in the table named AGENTS
+INFO 2020-12-01 15:20:09,659 - Parsing Select Query
+INFO 2020-12-01 15:20:09,659 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:20:09,662 - Select operation performed on table named AGENTS
+INFO 2020-12-01 15:20:50,537 - Parsing Update Query
+INFO 2020-12-01 15:20:50,538 - Trying to Update data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:20:50,539 - Data updated successfully in the table named AGENTS
+INFO 2020-12-01 15:20:55,705 - Parsing Select Query
+INFO 2020-12-01 15:20:55,706 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:20:55,718 - Select operation performed on table named AGENTS
+INFO 2020-12-01 15:29:29,252 - Parsing create DB Query
+INFO 2020-12-01 15:29:29,258 - Trying to create DB Sample
+INFO 2020-12-01 15:29:29,260 - Database Sample created successfully.
+INFO 2020-12-01 15:29:53,861 - Parsing create table Query
+INFO 2020-12-01 15:29:53,865 - Trying to create Table AGENTS in Student
+INFO 2020-12-01 15:29:53,885 - AGENTS table created successfully.
+INFO 2020-12-01 15:33:00,119 - Parsing create DB Query
+INFO 2020-12-01 15:33:00,119 - Trying to create DB Sample
+INFO 2020-12-01 15:33:00,128 - Database Sample already exists.
+INFO 2020-12-01 15:33:09,135 - Parsing use DB Query
+INFO 2020-12-01 15:33:09,136 - Trying to change db name
+INFO 2020-12-01 15:33:09,136 - DB changed toSample
+INFO 2020-12-01 15:33:31,553 - Parsing create table Query
+INFO 2020-12-01 15:33:31,557 - Trying to create Table AGENTS in Sample
+INFO 2020-12-01 15:33:31,572 - AGENTS table created successfully.
+INFO 2020-12-01 15:34:04,614 - Parsing create table Query
+INFO 2020-12-01 15:34:04,615 - Trying to create Table AGENTS in Sample
+INFO 2020-12-01 15:34:07,641 - Parsing create table Query
+INFO 2020-12-01 15:34:07,642 - Trying to create Table AGENTS in Sample
+INFO 2020-12-01 15:34:16,073 - Parsing create table Query
+INFO 2020-12-01 15:34:16,074 - Trying to create Table AGENTS in Sample
+INFO 2020-12-01 15:34:22,336 - Parsing create table Query
+INFO 2020-12-01 15:34:22,336 - Trying to create Table ORDERS in Sample
+INFO 2020-12-01 15:34:22,355 - ORDERS table created successfully.
+INFO 2020-12-01 15:34:31,760 - Parsing create table Query
+INFO 2020-12-01 15:34:31,760 - Trying to create Table CUSTOMER in Sample
+INFO 2020-12-01 15:34:31,771 - CUSTOMER table created successfully.
+INFO 2020-12-01 15:34:40,789 - Parsing Select Query
+INFO 2020-12-01 15:34:40,790 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:34:40,793 - Select operation performed on table named AGENTS
+INFO 2020-12-01 15:34:49,074 - Parsing create table Query
+INFO 2020-12-01 15:34:49,074 - Trying to create Table CUSTOMER in Sample
+INFO 2020-12-01 15:34:52,073 - Parsing Insert Query
+INFO 2020-12-01 15:34:52,073 - Trying to insert data into Table: AGENTS in DB Sample
+INFO 2020-12-01 15:34:52,083 - Data inserted in the AGENTS successfully.
+INFO 2020-12-01 15:35:03,413 - Parsing Insert Query
+INFO 2020-12-01 15:35:03,414 - Trying to insert data into Table: AGENTS in DB Sample
+INFO 2020-12-01 15:35:03,418 - Data inserted in the AGENTS successfully.
+INFO 2020-12-01 15:35:08,905 - Parsing Select Query
+INFO 2020-12-01 15:35:08,906 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:35:08,908 - Select operation performed on table named AGENTS
+INFO 2020-12-01 15:35:32,155 - Parsing Select Query
+INFO 2020-12-01 15:35:32,155 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:36:04,532 - Parsing Select Query
+INFO 2020-12-01 15:36:04,532 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:36:21,363 - Parsing Insert Query
+INFO 2020-12-01 15:36:21,364 - Trying to insert data into Table: AGENTS in DB Sample
+ERROR 2020-12-01 15:36:21,365 - Primary key Constraint: Data with primary key already exist in table.
+INFO 2020-12-01 15:36:38,046 - Parsing use DB Query
+INFO 2020-12-01 15:36:38,047 - Trying to change db name
+INFO 2020-12-01 15:36:38,047 - DB changed toSample
+INFO 2020-12-01 15:36:43,055 - Parsing Select Query
+INFO 2020-12-01 15:36:43,056 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:36:43,057 - Select operation performed on table named AGENTS
+INFO 2020-12-01 15:37:05,893 - Parsing Update Query
+INFO 2020-12-01 15:37:05,894 - Trying to Update data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:37:05,895 - Data updated successfully in the table named AGENTS
+INFO 2020-12-01 15:37:14,058 - Parsing Select Query
+INFO 2020-12-01 15:37:14,058 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:37:14,060 - Select operation performed on table named AGENTS
+INFO 2020-12-01 15:37:39,908 - Parsing Insert Query
+INFO 2020-12-01 15:37:39,908 - Trying to insert data into Table: CUSTOMER in DB Sample
+INFO 2020-12-01 15:37:39,919 - Data inserted in the CUSTOMER successfully.
+INFO 2020-12-01 15:37:43,085 - Parsing Insert Query
+INFO 2020-12-01 15:37:43,085 - Trying to insert data into Table: CUSTOMER in DB Sample
+INFO 2020-12-01 15:37:43,095 - Data inserted in the CUSTOMER successfully.
+INFO 2020-12-01 15:37:46,502 - Parsing Insert Query
+INFO 2020-12-01 15:37:46,502 - Trying to insert data into Table: ORDERS in DB Sample
+INFO 2020-12-01 15:37:46,509 - Data inserted in the ORDERS successfully.
+INFO 2020-12-01 15:37:53,477 - Parsing Select Query
+INFO 2020-12-01 15:37:53,477 - Trying to retrieve data from Table: CUSTOMERS in DB Sample
+ERROR 2020-12-01 15:37:53,477 - Select operation failed.
+INFO 2020-12-01 15:38:06,561 - Parsing Select Query
+INFO 2020-12-01 15:38:06,561 - Trying to retrieve data from Table: CUSTOMER in DB Sample
+INFO 2020-12-01 15:38:06,563 - Select operation performed on table named CUSTOMER
+INFO 2020-12-01 15:38:35,351 - Trying to delete record from Table: CUSTOMER in DB Sample
+INFO 2020-12-01 15:38:35,352 - Data Deleted successfully in the table named CUSTOMER
+INFO 2020-12-01 15:38:40,627 - Parsing Select Query
+INFO 2020-12-01 15:38:40,627 - Trying to retrieve data from Table: CUSTOMER in DB Sample
+INFO 2020-12-01 15:38:40,639 - Select operation performed on table named CUSTOMER
+INFO 2020-12-01 15:39:12,328 - Transactions for this user namedroot has initiated.
+INFO 2020-12-01 15:39:43,688 - Parsing Select Query
+INFO 2020-12-01 15:39:43,688 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:39:43,690 - Select operation performed on table named AGENTS
+INFO 2020-12-01 15:40:01,851 - Parsing Select Query
+INFO 2020-12-01 15:40:01,851 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:40:01,862 - Select operation performed on table named AGENTS
+INFO 2020-12-01 15:40:28,403 - Parsing Insert Query
+INFO 2020-12-01 15:40:28,403 - Trying to insert data into Table: AGENTS in DB Sample
+INFO 2020-12-01 15:40:28,405 - Data inserted in the AGENTS successfully.
+INFO 2020-12-01 15:40:40,645 - Parsing Select Query
+INFO 2020-12-01 15:40:40,645 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:41:09,052 - Transactions for this user namedadmin has initiated.
+INFO 2020-12-01 15:41:19,953 - Parsing Select Query
+INFO 2020-12-01 15:41:19,953 - Trying to retrieve data from Table: CUSTOMER in DB Sample
+INFO 2020-12-01 15:41:19,954 - Select operation performed on table named CUSTOMER
+INFO 2020-12-01 15:41:42,065 - Transaction for the user root rollbacked.
+INFO 2020-12-01 15:41:59,633 - Parsing Select Query
+INFO 2020-12-01 15:41:59,633 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:41:59,634 - Select operation performed on table named AGENTS
+INFO 2020-12-01 15:44:42,631 - Transactions for this user namedroot has initiated.
+INFO 2020-12-01 15:44:50,279 - Parsing Insert Query
+INFO 2020-12-01 15:44:50,279 - Trying to insert data into Table: AGENTS in DB Sample
+INFO 2020-12-01 15:44:50,281 - Data inserted in the AGENTS successfully.
+INFO 2020-12-01 15:45:02,622 - Transaction for the user root committed.
+INFO 2020-12-01 15:45:16,632 - Parsing Select Query
+INFO 2020-12-01 15:45:16,632 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 15:45:16,632 - Select operation performed on table named AGENTS
+INFO 2020-12-01 15:51:01,468 - Parsing create DB Query
+INFO 2020-12-01 15:51:01,468 - Trying to create DB Sample
+INFO 2020-12-01 15:51:01,469 - Database Sample created successfully.
+INFO 2020-12-01 15:51:05,487 - Parsing use DB Query
+INFO 2020-12-01 15:51:05,487 - Trying to change db name
+INFO 2020-12-01 15:51:05,487 - DB changed toSample
+INFO 2020-12-01 15:51:11,634 - Parsing create table Query
+INFO 2020-12-01 15:51:11,636 - Trying to create Table CUSTOMER in Sample
+INFO 2020-12-01 15:51:11,648 - CUSTOMER table created successfully.
+INFO 2020-12-01 15:51:14,442 - Parsing Insert Query
+INFO 2020-12-01 15:51:14,443 - Trying to insert data into Table: CUSTOMER in DB Sample
+INFO 2020-12-01 15:51:14,456 - Data inserted in the CUSTOMER successfully.
+INFO 2020-12-01 15:51:16,700 - Parsing Insert Query
+INFO 2020-12-01 15:51:16,701 - Trying to insert data into Table: CUSTOMER in DB Sample
+INFO 2020-12-01 15:51:16,710 - Data inserted in the CUSTOMER successfully.
+INFO 2020-12-01 15:52:47,595 - Parsing Update Query
+INFO 2020-12-01 15:52:47,596 - Trying to Update data from Table: CUSTOMER in DB Sample
+INFO 2020-12-01 15:52:47,608 - Data updated successfully in the table named CUSTOMER
+INFO 2020-12-01 15:52:56,424 - Parsing Select Query
+INFO 2020-12-01 15:52:56,425 - Trying to retrieve data from Table: CUSTOMER in DB Sample
+INFO 2020-12-01 15:52:56,435 - Select operation performed on table named CUSTOMER
+INFO 2020-12-01 16:03:39,880 - Parsing create DB Query
+INFO 2020-12-01 16:03:39,880 - Trying to create DB Demo
+INFO 2020-12-01 16:03:39,890 - Database Demo created successfully.
+INFO 2020-12-01 16:04:11,442 - Parsing use DB Query
+INFO 2020-12-01 16:04:11,443 - Trying to change db name
+INFO 2020-12-01 16:04:11,443 - DB changed toSample
+INFO 2020-12-01 16:04:38,593 - Parsing create table Query
+INFO 2020-12-01 16:04:38,595 - Trying to create Table AGENTS in Sample
+INFO 2020-12-01 16:04:38,607 - AGENTS table created successfully.
+INFO 2020-12-01 16:05:01,408 - Parsing create table Query
+INFO 2020-12-01 16:05:01,408 - Trying to create Table ORDERS in Sample
+INFO 2020-12-01 16:05:01,423 - ORDERS table created successfully.
+INFO 2020-12-01 16:05:16,027 - Parsing Insert Query
+INFO 2020-12-01 16:05:16,028 - Trying to insert data into Table: AGENTS in DB Sample
+INFO 2020-12-01 16:05:16,033 - Data inserted in the AGENTS successfully.
+INFO 2020-12-01 16:05:27,159 - Parsing Insert Query
+INFO 2020-12-01 16:05:27,159 - Trying to insert data into Table: AGENTS in DB Sample
+INFO 2020-12-01 16:05:27,163 - Data inserted in the AGENTS successfully.
+INFO 2020-12-01 16:05:33,595 - Parsing Select Query
+INFO 2020-12-01 16:05:33,596 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 16:05:33,598 - Select operation performed on table named AGENTS
+INFO 2020-12-01 16:05:47,682 - Parsing Insert Query
+INFO 2020-12-01 16:05:47,683 - Trying to insert data into Table: AGENTS in DB Sample
+ERROR 2020-12-01 16:05:47,683 - Primary key Constraint: Data with primary key already exist in table.
+INFO 2020-12-01 16:06:10,299 - Parsing Insert Query
+INFO 2020-12-01 16:06:10,299 - Trying to insert data into Table: AGENTS in DB Sample
+INFO 2020-12-01 16:06:18,220 - Parsing Insert Query
+ERROR 2020-12-01 16:06:18,221 - Wrong Insert Query Syntax
+INFO 2020-12-01 16:06:37,573 - Parsing Select Query
+INFO 2020-12-01 16:06:37,573 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 16:07:04,741 - Parsing Update Query
+INFO 2020-12-01 16:07:04,741 - Trying to Update data from Table: AGENTS in DB Sample
+INFO 2020-12-01 16:07:04,742 - Data updated successfully in the table named AGENTS
+INFO 2020-12-01 16:07:26,334 - Parsing Select Query
+INFO 2020-12-01 16:07:26,334 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 16:07:26,337 - Select operation performed on table named AGENTS
+INFO 2020-12-01 16:07:44,248 - Parsing Select Query
+INFO 2020-12-01 16:07:44,248 - Trying to retrieve data from Table: CUSTOMERS in DB Sample
+ERROR 2020-12-01 16:07:44,248 - Select operation failed.
+INFO 2020-12-01 16:07:51,323 - Parsing Select Query
+INFO 2020-12-01 16:07:51,323 - Trying to retrieve data from Table: CUSTOMER in DB Sample
+INFO 2020-12-01 16:07:51,324 - Select operation performed on table named CUSTOMER
+INFO 2020-12-01 16:08:06,213 - Parsing Update Query
+INFO 2020-12-01 16:08:06,213 - Trying to Update data from Table: CUSTOMER in DB Sample
+INFO 2020-12-01 16:08:06,215 - Data updated successfully in the table named CUSTOMER
+INFO 2020-12-01 16:08:12,909 - Parsing Select Query
+INFO 2020-12-01 16:08:12,910 - Trying to retrieve data from Table: CUSTOMER in DB Sample
+INFO 2020-12-01 16:08:12,921 - Select operation performed on table named CUSTOMER
+INFO 2020-12-01 16:08:43,970 - Trying to delete record from Table: CUSTOMER in DB Sample
+INFO 2020-12-01 16:08:43,972 - Data Deleted successfully in the table named CUSTOMER
+INFO 2020-12-01 16:08:51,015 - Parsing Select Query
+INFO 2020-12-01 16:08:51,015 - Trying to retrieve data from Table: CUSTOMER in DB Sample
+INFO 2020-12-01 16:08:51,027 - Select operation performed on table named CUSTOMER
+INFO 2020-12-01 16:09:37,896 - Transactions for this user namedroot has initiated.
+INFO 2020-12-01 16:10:11,127 - Parsing Select Query
+INFO 2020-12-01 16:10:11,128 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 16:10:11,128 - Select operation performed on table named AGENTS
+INFO 2020-12-01 16:10:36,307 - Parsing Select Query
+INFO 2020-12-01 16:10:36,307 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 16:10:36,310 - Select operation performed on table named AGENTS
+INFO 2020-12-01 16:11:39,684 - Parsing Insert Query
+INFO 2020-12-01 16:11:39,684 - Trying to insert data into Table: AGENTS in DB Sample
+INFO 2020-12-01 16:11:39,686 - Data inserted in the AGENTS successfully.
+INFO 2020-12-01 16:12:02,123 - Parsing Insert Query
+INFO 2020-12-01 16:12:02,123 - Trying to insert data into Table: AGENTS in DB Sample
+INFO 2020-12-01 16:12:21,212 - Parsing Select Query
+INFO 2020-12-01 16:12:21,212 - Trying to retrieve data from Table: CUSTOMER in DB Sample
+INFO 2020-12-01 16:12:21,212 - Select operation performed on table named CUSTOMER
+INFO 2020-12-01 16:12:38,017 - Transaction for the user root rollbacked.
+INFO 2020-12-01 16:12:46,313 - Parsing Select Query
+INFO 2020-12-01 16:12:46,314 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 16:12:46,314 - Select operation performed on table named AGENTS
+INFO 2020-12-01 16:13:15,144 - Transactions for this user namedadmin has initiated.
+INFO 2020-12-01 16:13:29,615 - Parsing Insert Query
+INFO 2020-12-01 16:13:29,615 - Trying to insert data into Table: AGENTS in DB Sample
+INFO 2020-12-01 16:13:29,618 - Data inserted in the AGENTS successfully.
+INFO 2020-12-01 16:13:36,056 - Transaction for the user admin committed.
+INFO 2020-12-01 16:13:43,841 - Parsing Select Query
+INFO 2020-12-01 16:13:43,841 - Trying to retrieve data from Table: AGENTS in DB Sample
+INFO 2020-12-01 16:13:43,849 - Select operation performed on table named AGENTS
+INFO 2020-12-01 16:14:17,555 - Parsing Drop Table Query
+INFO 2020-12-01 16:14:17,555 - Trying to drop Table CUSTOMER
+INFO 2020-12-01 16:14:17,566 - Table named CUSTOMER created successfully.
+INFO 2020-12-01 16:14:25,079 - Parsing Select Query
+INFO 2020-12-01 16:14:25,079 - Trying to retrieve data from Table: CUSTOMER in DB Sample
+ERROR 2020-12-01 16:14:25,079 - Select operation failed.
+INFO 2020-12-08 14:59:44,938 - Parsing create table Query
+ERROR 2020-12-08 14:59:44,943 - Wrong Create Table Query
+INFO 2020-12-08 15:00:55,582 - Parsing create table Query
+ERROR 2020-12-08 15:00:55,594 - Wrong Create Table Query
+INFO 2020-12-08 15:01:05,384 - Parsing create table Query
+ERROR 2020-12-08 15:01:25,539 - Wrong Create Table Query
+INFO 2020-12-08 15:02:43,901 - Check table created successfully.
+INFO 2020-12-09 12:49:57,005 - Parsing create table Query
+INFO 2020-12-09 12:49:57,006 - Trying to create Table Orders in Student
+INFO 2020-12-09 12:50:19,332 - Parsing create table Query
+ERROR 2020-12-09 12:50:19,332 - Wrong Create Table Query
+INFO 2020-12-09 12:50:25,294 - Parsing create table Query
+INFO 2020-12-09 12:50:25,295 - Trying to create Table temp in Student
+INFO 2020-12-09 12:50:50,392 - Parsing create table Query
+INFO 2020-12-09 12:50:50,392 - Trying to create Table temp in Student
+INFO 2020-12-09 12:50:50,405 - temp table created successfully.
+INFO 2020-12-09 12:52:16,514 - Parsing create table Query
+INFO 2020-12-09 12:52:16,514 - Trying to create Table temp in Student
+INFO 2020-12-09 12:52:42,200 - Parsing create table Query
+INFO 2020-12-09 12:52:42,200 - Trying to create Table temp in Student
+INFO 2020-12-09 16:39:29,734 - Parsing use DB Query
+INFO 2020-12-09 16:39:29,734 - Trying to change db name
+INFO 2020-12-09 16:39:29,735 - DB changed toSample
+INFO 2020-12-09 16:52:29,110 - Transactions for this user namedroot has initiated.
+INFO 2020-12-09 16:53:06,535 - Parsing Select Query
+INFO 2020-12-09 16:53:06,536 - Trying to retrieve data from Table: CUSTOMER in DB Student
+INFO 2020-12-09 16:53:06,537 - Select operation performed on table named CUSTOMER
+INFO 2020-12-09 16:54:06,833 - Parsing Insert Query
+INFO 2020-12-09 16:54:06,834 - Trying to insert data into Table: CUSTOMER in DB Student
+ERROR 2020-12-09 16:54:06,840 - Primary key Constraint: Data with primary key already exist in table.
+INFO 2020-12-09 16:54:09,838 - Parsing Insert Query
+INFO 2020-12-09 16:54:09,838 - Trying to insert data into Table: CUSTOMER in DB Student
+ERROR 2020-12-09 16:54:09,839 - Primary key Constraint: Data with primary key already exist in table.
+INFO 2020-12-09 16:54:34,866 - Parsing Insert Query
+INFO 2020-12-09 16:54:34,866 - Trying to insert data into Table: CUSTOMER in DB Student
+ERROR 2020-12-09 16:54:34,867 - Primary key Constraint: Data with primary key already exist in table.
+INFO 2020-12-09 16:54:50,865 - Parsing Insert Query
+INFO 2020-12-09 16:54:50,865 - Trying to insert data into Table: CUSTOMER in DB Student
+INFO 2020-12-09 16:54:50,868 - Data inserted in the CUSTOMER successfully.
+INFO 2020-12-09 16:55:47,438 - Transaction for the user root committed.
+INFO 2020-12-13 23:13:34,321 - hh table created successfully.

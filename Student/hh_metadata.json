@@ -1,0 +1,1 @@
+{"Columns": [{"name": "id", "type": "int"}, {"name": "name", "type": "vatchar"}], "primary key": "id", "foreign key": "AGENT_CODE", "reference table": "AGENTS"}

@@ -1,0 +1,46 @@
+{
+  "columns": [
+    {
+      "CUST_CODE": "C00001",
+      "CUST_NAME": "Micheal",
+      "CUST_CITY": "New York",
+      "WORKING_AREA": "New York",
+      "CUST_COUNTRY": "USA",
+      "GRADE": "2",
+      "OPENING_AMT": "3000.00",
+      "RECEIVE_AMT": "5000.00",
+      "PAYMENT_AMT": "2000.00",
+      "OUTSTANDING_AMT": "6000.00",
+      "PHONE_NO": "CCCCCCC",
+      "AGENT_CODE": "A008"
+    },
+    {
+      "CUST_CODE": "C00013",
+      "CUST_NAME": "Holmes",
+      "CUST_CITY": "London",
+      "WORKING_AREA": "London",
+      "CUST_COUNTRY": "UK",
+      "GRADE": "2",
+      "OPENING_AMT": "6000.00",
+      "RECEIVE_AMT": "5000.00",
+      "PAYMENT_AMT": "7000.00",
+      "OUTSTANDING_AMT": "4000.00",
+      "PHONE_NO": "BBBBBBB",
+      "AGENT_CODE": "A003"
+    },
+    {
+      "CUST_CODE": "C000121",
+      "CUST_NAME": "Micheal",
+      "CUST_CITY": "New York",
+      "WORKING_AREA": "New York",
+      "CUST_COUNTRY": "USA",
+      "GRADE": "2",
+      "OPENING_AMT": "3000.00",
+      "RECEIVE_AMT": "5000.00",
+      "PAYMENT_AMT": "2000.00",
+      "OUTSTANDING_AMT": "6000.00",
+      "PHONE_NO": "CCCCCCC",
+      "AGENT_CODE": "A008"
+    }
+  ]
+}

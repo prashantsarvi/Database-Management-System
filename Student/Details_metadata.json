@@ -1,0 +1,13 @@
+{
+  "Columns": [
+    {
+      "name": "id",
+      "type": "int"
+    },
+    {
+      "name": "name",
+      "type": "varchar[20]"
+    }
+  ],
+  "primary key": "id"
+}

@@ -1,0 +1,28 @@
+{
+  "columns": [
+    {
+      "AGENT_CODE": "A007",
+      "AGENT_NAME": "Ramasundar",
+      "WORKING_AREA": "Bangalore",
+      "COMMISSION": "0.15",
+      "PHONE_NO": "077-25814763",
+      "COUNTRY": "India"
+    },
+    {
+      "AGENT_CODE": "A009",
+      "AGENT_NAME": "Benjamin",
+      "WORKING_AREA": "Hampshair",
+      "COMMISSION": "0.11",
+      "PHONE_NO": "008-22536178",
+      "COUNTRY": "Australis"
+    },
+    {
+      "AGENT_CODE": "A001",
+      "AGENT_NAME": "PRASHANT",
+      "WORKING_AREA": "SARVI",
+      "COMMISSION": "0.11",
+      "PHONE_NO": "008-22536178",
+      "COUNTRY": "Australis"
+    }
+  ]
+}

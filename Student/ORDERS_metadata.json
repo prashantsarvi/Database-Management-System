@@ -1,0 +1,33 @@
+{
+  "Columns": [
+    {
+      "name": "ORD_NUM",
+      "type": "VARCHAR2(6)"
+    },
+    {
+      "name": "ORD_AMOUNT",
+      "type": "VARCHAR2(6)"
+    },
+    {
+      "name": "ADVANCE_AMOUNT",
+      "type": "VARCHAR2(6)"
+    },
+    {
+      "name": "ORD_DATE",
+      "type": "DATE"
+    },
+    {
+      "name": "CUST_CODE",
+      "type": "VARCHAR2(6)"
+    },
+    {
+      "name": "AGENT_CODE",
+      "type": "CHAR(6)"
+    },
+    {
+      "name": "ORD_DESCRIPTION",
+      "type": "VARCHAR2(60)"
+    }
+  ],
+  "primary key": "ORD_NUM"
+}

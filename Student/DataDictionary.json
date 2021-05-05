@@ -1,0 +1,130 @@
+[
+  {
+    "Columns": [
+      {
+        "name": "CUST_CODE",
+        "type": "VARCHAR2(6)"
+      },
+      {
+        "name": "CUST_NAME",
+        "type": "VARCHAR2(40)"
+      },
+      {
+        "name": "CUST_CITY",
+        "type": "CHAR(35)"
+      },
+      {
+        "name": "WORKING_AREA",
+        "type": "VARCHAR2(35)"
+      },
+      {
+        "name": "CUST_COUNTRY",
+        "type": "VARCHAR2(20)"
+      },
+      {
+        "name": "GRADE",
+        "type": "VARCHAR2(20)"
+      },
+      {
+        "name": "OPENING_AMT",
+        "type": "VARCHAR2(20)"
+      },
+      {
+        "name": "RECEIVE_AMT",
+        "type": "VARCHAR2(20)"
+      },
+      {
+        "name": "PAYMENT_AMT",
+        "type": "VARCHAR2(6)"
+      },
+      {
+        "name": "OUTSTANDING_AMT",
+        "type": "VARCHAR2(6)"
+      },
+      {
+        "name": "PHONE_NO",
+        "type": "VARCHAR2(17)"
+      },
+      {
+        "name": "AGENT_CODE",
+        "type": "CHAR(6)"
+      }
+    ],
+    "primary key": "CUST_CODE",
+    "TableName": "CUSTOMER"
+  },
+  {
+    "Columns": [
+      {
+        "name": "id",
+        "type": "int"
+      },
+      {
+        "name": "name",
+        "type": "varchar[20]"
+      }
+    ],
+    "primary key": "id",
+    "TableName": "Details"
+  },
+  {
+    "Columns": [
+      {
+        "name": "ORD_NUM",
+        "type": "VARCHAR2(6)"
+      },
+      {
+        "name": "ORD_AMOUNT",
+        "type": "VARCHAR2(6)"
+      },
+      {
+        "name": "ADVANCE_AMOUNT",
+        "type": "VARCHAR2(6)"
+      },
+      {
+        "name": "ORD_DATE",
+        "type": "DATE"
+      },
+      {
+        "name": "CUST_CODE",
+        "type": "VARCHAR2(6)"
+      },
+      {
+        "name": "AGENT_CODE",
+        "type": "CHAR(6)"
+      },
+      {
+        "name": "ORD_DESCRIPTION",
+        "type": "VARCHAR2(60)"
+      }
+    ],
+    "primary key": "ORD_NUM",
+    "TableName": "ORDERS"
+  },
+  {
+    "Columns": [
+      {
+        "name": "PersonID",
+        "type": "int"
+      },
+      {
+        "name": "LastName",
+        "type": "varchar(255)"
+      },
+      {
+        "name": "FirstName",
+        "type": "varchar(255)"
+      },
+      {
+        "name": "Address",
+        "type": "varchar(255)"
+      },
+      {
+        "name": "City",
+        "type": "varchar(255)"
+      }
+    ],
+    "primary key": "PersonID",
+    "TableName": "Persons"
+  }
+]

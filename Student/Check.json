@@ -1,0 +1,19 @@
+{
+  "columns": [
+    {
+      "id": "1",
+      "name": "Neel",
+      "AGENT_CODE": "A007"
+    },
+    {
+      "id": "2",
+      "name": "samkit",
+      "AGENT_CODE": "A009"
+    },
+    {
+      "id": "3",
+      "name": "Prasnath",
+      "AGENT_CODE": "A010"
+    }
+  ]
+}

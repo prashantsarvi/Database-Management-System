@@ -1,0 +1,33 @@
+    __________              ____  _______   __________  ___    __  ___
+   / ____/ __ \            / __ \/  _/   | / ____/ __ \/   |  /  |/  /
+  / __/ / /_/ /  ______   / / / // // /| |/ / __/ /_/ / /| | / /|_/ / 
+ / /___/ _, _/  /_____/  / /_/ // // ___ / /_/ / _, _/ ___ |/ /  / /  
+/_____/_/ |_|           /_____/___/_/  |_\____/_/ |_/_/  |_/_/  /_/   
+                                                                      
+
+ Table name:AGENTS
+ Attributes of table are:['AGENT_CODE', 'AGENT_NAME', 'WORKING_AREA', 'COMMISSION', 'PHONE_NO', 'COUNTRY']
+ The primary key is:AGENT_CODE
+ ------------------------------------------------------------------------------------------------------------------------------------
+ Table name:Check
+ Attributes of table are:['id', 'name', 'AGENT_CODE']
+ The primary key is:id
+ Foreign key of table is:AGENT_CODE and reference table is:AGENTS
+ Cardinality between Check table and AGENTS table is : 1 to 1
+ ------------------------------------------------------------------------------------------------------------------------------------
+ Table name:CUSTOMER
+ Attributes of table are:['CUST_CODE', 'CUST_NAME', 'CUST_CITY', 'WORKING_AREA', 'CUST_COUNTRY', 'GRADE', 'OPENING_AMT', 'RECEIVE_AMT', 'PAYMENT_AMT', 'OUTSTANDING_AMT', 'PHONE_NO', 'AGENT_CODE']
+ The primary key is:CUST_CODE
+ ------------------------------------------------------------------------------------------------------------------------------------
+ Table name:Details
+ Attributes of table are:['id', 'name']
+ The primary key is:id
+ ------------------------------------------------------------------------------------------------------------------------------------
+ Table name:ORDERS
+ Attributes of table are:['ORD_NUM', 'ORD_AMOUNT', 'ADVANCE_AMOUNT', 'ORD_DATE', 'CUST_CODE', 'AGENT_CODE', 'ORD_DESCRIPTION']
+ The primary key is:ORD_NUM
+ ------------------------------------------------------------------------------------------------------------------------------------
+ Table name:Persons
+ Attributes of table are:['PersonID', 'LastName', 'FirstName', 'Address', 'City']
+ The primary key is:PersonID
+ ------------------------------------------------------------------------------------------------------------------------------------
